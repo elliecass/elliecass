@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elliecass
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on professional 
-- 📫 How to reach me just pm me
+- 💞️ I’m looking to collabora on
+- 📫 How to reach me 
 
 <!---
 elliecass/elliecass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
